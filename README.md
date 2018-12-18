@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my personal website project.
+Started on 18-12-2018
 
 ## Available Scripts
 
